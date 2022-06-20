@@ -2,7 +2,7 @@
 	export let name;
 
 	import { Images } from "svelte-images";
-	const images = [...Array(25)].map((x, i) => ({ src: `https://raw.githubusercontent.com/Treblesteph/faces/main/src/face${i+1}.png`}))
+	const images = [...Array(27)].map((x, i) => ({ src: `https://raw.githubusercontent.com/Treblesteph/faces/main/src/face${i+1}.png`}))
 </script>
 
 <main>
